@@ -132,8 +132,8 @@ It mirrors how **real-world dashboards and internal products** are structured in
 **Ayush Sahu**  
 B.Tech Computer Science & Engineering  
 
-📧 Email: sahuayush134@gmail.com  
-🐦 X (Twitter): @AyushLearns  
-🔗 LinkedIn: https://www.linkedin.com/in/ayush-sahu/
+📧 Email: ramu49052@gmail.com  
+
+🔗 LinkedIn: https://www.linkedin.com/in/ramubattula/
 
 Focused on building **scalable, maintainable, real-world applications** with strong fundamentals in frontend and backend development.

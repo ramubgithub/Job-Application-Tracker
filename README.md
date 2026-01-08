@@ -129,7 +129,7 @@ It mirrors how **real-world dashboards and internal products** are structured in
 
 ## 👤 Author
 
-**Ayush Sahu**  
+**Ramu Battula**  
 B.Tech Computer Science & Engineering  
 
 📧 Email: ramu49052@gmail.com  
